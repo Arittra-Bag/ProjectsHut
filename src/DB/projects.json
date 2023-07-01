@@ -3340,3 +3340,21 @@
   ]
 }
 ]
+{
+  "github_username": "Arittra-Bag",
+  "Social_media": {
+    "gitHub": "https://github.com/Arittra-Bag",
+    "LinkedIn": "https://www.linkedin.com/in/arittra-bag-00b12a1b5",
+    "Instagram": "#",
+    "YouTube": "#",
+    "Twitter": "https://twitter.com/arittra_bag"
+  },
+  "Projects": [
+    {
+      "link": "https://github.com/Arittra-Bag/ProjectsHut",
+      "title": "ProjectsHut",
+      "description": "It is a web app that enables users to freely publish their projects and create user profiles within the platform.",
+      "tech": ["ReactJs", "Tailwind CSS"]
+    }
+  ]
+}
